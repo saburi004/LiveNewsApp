@@ -1,0 +1,14 @@
+.imgcol{
+    margin-left: "100px";
+}
+@media only screen and (max-width: 480px) {
+   
+  .imgcol{
+   margin-left: "0px";
+    }
+.nextbut{
+    position: absolute;
+    top: 110px;
+    right:30px;
+}
+  }
